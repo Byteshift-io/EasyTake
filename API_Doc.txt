@@ -1,0 +1,21 @@
+Employee:
+
+/EmployeeSignup
+Parameters for employee signup:
+{
+	"Email":'',
+	"Name":'',
+	"Phone":'',
+	"AadharNum":'',
+	"Occupation":'',
+	"Photo":'',
+	"Location":'',
+	"Language":'',
+	"ReferralCode":'',
+	"AccNum":'',
+	"AccName":'',
+	"IFSC":'',
+	"BankName":'',
+	"PtmNum":'',
+	"TezNum":''
+}
